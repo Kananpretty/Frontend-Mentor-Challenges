@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Social Links Profile](./screenshot.png)
+![Social Links Profile](./images/screenshot.png)
 
 ## Built with
 
