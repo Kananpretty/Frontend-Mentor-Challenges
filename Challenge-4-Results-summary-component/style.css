@@ -17,6 +17,12 @@ body {
   font-family: "Hanken Grotesk", sans-serif;
 }
 
+.results-summary-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
 .results-summary-card {
   width: 600px;
   max-width: calc(100% - 2rem);
@@ -177,4 +183,12 @@ body {
   border: 0;
   margin-top: 1rem;
   cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+  .results-summary-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
 }
