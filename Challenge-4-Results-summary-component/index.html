@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@500,700,800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Results Summary Card</title>
+  </head>
+  <body>
+    <main class="results-summary-page">
+      <article class="results-summary-card">
+        <section class="results-score-section">
+          <h1 class="result-heading">Your Result</h1>
+          <div class="results-score">
+            <p class="score-value">76</p>
+            <p class="score-max">of 100</p>
+          </div>
+          <h2>Great</h2>
+          <p class="score-description">
+            You scored higher than 65% of the people who have taken these tests.
+          </p>
+        </section>
+        <section class="results-summary-section">
+          <h2 class="summary-heading">Summary</h2>
+          <ul class="category-results">
+            <li class="category-score-row light-red-transparent">
+              <div class="category">
+                <img
+                  src="./images/icon-reaction.svg"
+                  alt=""
+                  class="category-icons"
+                />
+                <p class="category-name light-red">Reaction</p>
+              </div>
+              <p class="category-score-value"><strong>80 </strong>/ 100</p>
+            </li>
+            <li class="category-score-row orangey-yellow-transparent">
+              <div class="category">
+                <img
+                  src="./images/icon-memory.svg"
+                  alt=""
+                  class="category-icons"
+                />
+                <p class="category-name orangey-yellow">Memory</p>
+              </div>
+              <p class="category-score-value"><strong>92 </strong>/ 100</p>
+            </li>
+            <li class="category-score-row green-teal-transparent">
+              <div class="category">
+                <img
+                  src="./images/icon-verbal.svg"
+                  alt=""
+                  class="category-icons"
+                />
+                <p class="category-name green-teal">Verbal</p>
+              </div>
+              <p class="category-score-value"><strong>61 </strong>/ 100</p>
+            </li>
+            <li class="category-score-row cobalt-blue-transparent">
+              <div class="category">
+                <img
+                  src="./images/icon-visual.svg"
+                  alt=""
+                  class="category-icons"
+                />
+                <p class="category-name cobalt-blue">Visual</p>
+              </div>
+              <p class="category-score-value"><strong>73 </strong>/ 100</p>
+            </li>
+          </ul>
+          <button type="button" class="continue-button">Continue</button>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
