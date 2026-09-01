@@ -1,2 +1,72 @@
-# Frontend-Mentor-Challenges
-I am completing some of the challenges available on Frontend Mentor and will publish here my solutions
+# Frontend Mentor Challenges
+
+This repository contains my solutions to Frontend Mentor challenges.
+
+I am using these challenges to refresh and strengthen my frontend development fundamentals through hands-on practice.
+
+My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and eventually more advanced frontend concepts.
+
+## Challenges Completed
+
+### Newbie
+
+| # | Challenge | Concepts Practiced | Status |
+|---|-----------|-------------------|--------|
+| 1 | QR Code Component | Semantic HTML, Flexbox, basic layout and styling | ✅ Completed |
+| 2 | Blog Preview Card | Semantic HTML, typography, spacing, box shadow, avatar layout | ✅ Completed |
+| 3 | Social Links Profile | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing | ✅ Completed |
+| 4 | Results Summary Component | CSS Grid, Flexbox, gradients, HSLA, JSON, Fetch API, DOM manipulation | ✅ Completed |
+
+## Currently Working On
+
+### Challenge 5
+
+🚧 In Progress
+
+## Learning Goals
+
+Through these challenges, I am focusing on making the following concepts feel natural and second nature:
+
+- Semantic HTML
+- Accessibility fundamentals
+- CSS box model
+- Flexbox
+- CSS Grid
+- Spacing and layout
+- Typography
+- Responsive design
+- Hover, active, and focus states
+- CSS gradients
+- HSL and HSLA colors
+- JavaScript fundamentals
+- Working with JSON
+- Fetch API
+- DOM manipulation
+
+## Learning Approach
+
+My approach is to focus on understanding the concepts behind each challenge rather than only completing the design.
+
+For each challenge, I aim to:
+
+1. Build the HTML structure using semantic elements.
+2. Identify the appropriate layout tools such as Flexbox or CSS Grid.
+3. Implement the design.
+4. Review and improve the code.
+5. Document what I learned.
+6. Revisit challenges to experiment with alternative implementations.
+
+## Progression Plan
+
+I am currently working through the Frontend Mentor challenges in increasing difficulty.
+
+```text
+Newbie
+  ↓
+Junior
+  ↓
+Intermediate
+  ↓
+Advanced
+  ↓
+Guru
