@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Social Links Profile](./images/screenshot.png)
+![Challenge-3](images/screenshot.JPG)
 
 ## Built with
 

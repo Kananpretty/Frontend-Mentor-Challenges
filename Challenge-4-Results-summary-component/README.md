@@ -10,7 +10,7 @@ The category data is loaded dynamically from a JSON file and rendered using Java
 
 ## Screenshot
 
-![challenge-4](./images/image.png)
+![Challenge-4](images/image.png)
 
 ## Built with
 

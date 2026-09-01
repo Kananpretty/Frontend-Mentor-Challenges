@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog Preview Card](./images/screenshot.jpg)
+![Challenge-2](images/screenshot.JPG)
 
 ## Built with
 

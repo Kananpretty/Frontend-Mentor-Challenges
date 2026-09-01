@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![QR Code Component] (./images/screenshot.jpg)
+![Challenge-1](images/screenshot.JPG)
 
 ## Built with
 
