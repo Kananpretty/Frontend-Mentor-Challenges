@@ -10,17 +10,18 @@ My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and 
 
 ### Newbie
 
-| #   | Challenge                 | Concepts Practiced                                                                          | Status       |
-| --- | ------------------------- | ------------------------------------------------------------------------------------------- | ------------ |
-| 1   | QR Code Component         | Semantic HTML, Flexbox, basic layout and styling                                            | ✅ Completed |
-| 2   | Blog Preview Card         | Semantic HTML, typography, spacing, box shadow, avatar layout                               | ✅ Completed |
-| 3   | Social Links Profile      | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing     | ✅ Completed |
-| 4   | Results Summary Component | CSS Grid, Flexbox, gradients, HSLA, JSON, Fetch API, DOM manipulation, , responsive design  | ✅ Completed |
-| 5   | Product Preview Card      | Responsive images, `<picture>`, CSS Grid, Flexbox, media queries, typography, semantic HTML | ✅ Completed |
+| #   | Challenge                 | Concepts Practiced                                                                               | Status       |
+| --- | ------------------------- | ------------------------------------------------------------------------------------------------ | ------------ |
+| 1   | QR Code Component         | Semantic HTML, Flexbox, basic layout and styling                                                 | ✅ Completed |
+| 2   | Blog Preview Card         | Semantic HTML, typography, spacing, box shadow, avatar layout                                    | ✅ Completed |
+| 3   | Social Links Profile      | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing          | ✅ Completed |
+| 4   | Results Summary Component | CSS Grid, Flexbox, gradients, HSL and HSLA, JSON, Fetch API, DOM manipulation, responsive design | ✅ Completed |
+| 5   | Product Preview Card      | Responsive images, `<picture>`, CSS Grid, Flexbox, media queries, typography, semantic HTML      | ✅ Completed |
+| 6   | NFT Preview Card          | CSS positioning, image overlays, opacity, hover states, transitions, Flexbox                     | ✅ Completed |
 
 ## Currently Working On
 
-### Challenge 6
+### Challenge 7
 
 🚧 In Progress
 
@@ -33,10 +34,12 @@ Through these challenges, I am focusing on making the following concepts feel na
 - CSS box model
 - Flexbox
 - CSS Grid
+- CSS positioning
 - Spacing and layout
 - Typography
 - Responsive design
 - Hover, active, and focus states
+- CSS transitions
 - CSS gradients
 - HSL and HSLA colors
 - JavaScript fundamentals
@@ -71,14 +74,19 @@ Intermediate
 Advanced
   ↓
 Guru
+
 ```
 
 ## Learning Progress
 
-```text
 Challenge 1 → Basic HTML and CSS layout
-Challenge 2 → Semantic HTML, typography and card design
-Challenge 3 → Interactive states and accessible navigation
-Challenge 4 → Grid, responsive design, JSON, Fetch API and DOM manipulation
-Challenge 5 → Responsive images and responsive layouts
-```
+
+Challenge 2 → Semantic HTML, typography, spacing and card design
+
+Challenge 3 → Links vs buttons, interactive states and accessible navigation
+
+Challenge 4 → CSS Grid, gradients, responsive design, JSON, Fetch API and DOM manipulation
+
+Challenge 5 → Responsive images, the <picture> element and responsive layouts
+
+Challenge 6 → CSS positioning, element layering, image overlays, opacity and transitions
