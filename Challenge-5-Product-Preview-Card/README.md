@@ -10,7 +10,7 @@ The layout changes between desktop and mobile, including the product image and c
 
 ## Screenshot
 
-<!-- Add your screenshot here -->
+![Product Preview Card](images/screenshot.JPG)
 
 ## Built With
 
