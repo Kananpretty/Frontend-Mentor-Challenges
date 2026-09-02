@@ -10,16 +10,17 @@ My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and 
 
 ### Newbie
 
-| # | Challenge | Concepts Practiced | Status |
-|---|-----------|-------------------|--------|
-| 1 | QR Code Component | Semantic HTML, Flexbox, basic layout and styling | ✅ Completed |
-| 2 | Blog Preview Card | Semantic HTML, typography, spacing, box shadow, avatar layout | ✅ Completed |
-| 3 | Social Links Profile | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing | ✅ Completed |
-| 4 | Results Summary Component | CSS Grid, Flexbox, gradients, HSLA, JSON, Fetch API, DOM manipulation | ✅ Completed |
+| #   | Challenge                 | Concepts Practiced                                                                          | Status       |
+| --- | ------------------------- | ------------------------------------------------------------------------------------------- | ------------ |
+| 1   | QR Code Component         | Semantic HTML, Flexbox, basic layout and styling                                            | ✅ Completed |
+| 2   | Blog Preview Card         | Semantic HTML, typography, spacing, box shadow, avatar layout                               | ✅ Completed |
+| 3   | Social Links Profile      | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing     | ✅ Completed |
+| 4   | Results Summary Component | CSS Grid, Flexbox, gradients, HSLA, JSON, Fetch API, DOM manipulation, , responsive design  | ✅ Completed |
+| 5   | Product Preview Card      | Responsive images, `<picture>`, CSS Grid, Flexbox, media queries, typography, semantic HTML | ✅ Completed |
 
 ## Currently Working On
 
-### Challenge 5
+### Challenge 6
 
 🚧 In Progress
 
@@ -70,3 +71,14 @@ Intermediate
 Advanced
   ↓
 Guru
+```
+
+## Learning Progress
+
+```text
+Challenge 1 → Basic HTML and CSS layout
+Challenge 2 → Semantic HTML, typography and card design
+Challenge 3 → Interactive states and accessible navigation
+Challenge 4 → Grid, responsive design, JSON, Fetch API and DOM manipulation
+Challenge 5 → Responsive images and responsive layouts
+```
