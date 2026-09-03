@@ -4,7 +4,7 @@ This is my solution to the [Blog Preview Card challenge](https://www.frontendmen
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 The goal was to build a blog preview card as closely as possible to the provided design.
 
@@ -15,11 +15,16 @@ Users should be able to:
 - View the author's avatar and name
 - Experience the hover state on interactive elements
 
+### Links
+
+- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-2-Blog-preview-card)**
+- **[Live Demo](https://blog-preview-card-bay-two.vercel.app/)**
+
 ### Screenshot
 
-![Challenge-2](images/screenshot.JPG)
+![Blog Preview Card](images/screenshot.JPG)
 
-## Built with
+## Built With
 
 - Semantic HTML5
 - CSS
@@ -27,11 +32,12 @@ Users should be able to:
 - Responsive design
 - Google Fonts
 - CSS box model
-- CSS box-shadow
+- CSS `box-shadow`
+- CSS `border-radius`
 
-## What I learned
+## What I Learned
 
-This challenge helped me refresh and practice:
+This challenge helped me refresh and practise:
 
 - Using semantic HTML elements appropriately
 - Using `<article>` for self-contained content
@@ -41,21 +47,38 @@ This challenge helped me refresh and practice:
 - Creating a responsive card layout
 - Using CSS `box-shadow` to create an offset shadow
 - Using `border-radius` and borders to match a design
-- Understanding the CSS box model
+- Understanding how padding, borders, and content dimensions interact through the CSS box model
+- Implementing hover states for interactive elements
 
-### Semantic HTML
+## Semantic HTML
 
-The card uses semantic HTML to describe the content structure:
+The card uses semantic HTML to describe the content structure rather than relying entirely on generic `<div>` elements.
+
+The main content is structured using:
 
 - `<main>` for the primary page content
 - `<article>` for the self-contained blog preview
-- `<section>` for the article content grouping
-- `<time>` for the publication date
+- `<section>` for grouping related article content
+- `<time>` for the publication date, including a machine-readable `datetime` value
 - `<h1>` for the article title
 - `<p>` for the article description
 - `<footer>` for the author information
 
-## Continued development
+Using semantic elements makes the document structure more meaningful and provides a better foundation for accessibility.
+
+## CSS and Layout
+
+The card layout was created using Flexbox to control alignment and spacing.
+
+I also used:
+
+- `box-shadow` to recreate the distinctive offset shadow from the design
+- `border-radius` to create rounded corners
+- Borders to define the card structure
+- Typography and line-height adjustments to closely match the reference design
+- Responsive sizing to ensure the card works across different screen sizes
+
+## Continued Development
 
 For future challenges, I want to continue improving:
 
@@ -64,8 +87,12 @@ For future challenges, I want to continue improving:
 - Flexbox and CSS Grid
 - Typography and spacing systems
 - Interactive states
+- CSS transitions and animations
 - Writing clean and maintainable CSS
+- Pixel-accurate implementation of designs
 
 ## Author
 
-Kanan Mehta
+**Kanan Mehta**
+
+- GitHub - [@Kananpretty](https://github.com/Kananpretty)

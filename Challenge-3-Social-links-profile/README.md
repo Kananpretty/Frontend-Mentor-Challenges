@@ -4,7 +4,7 @@ This is my solution to the [Social Links Profile challenge](https://www.frontend
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 The goal was to build a social links profile card as closely as possible to the provided design.
 
@@ -15,11 +15,16 @@ Users should be able to:
 - Navigate to the user's social profiles
 - See visual feedback when interacting with the social links
 
+### Links
+
+- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-3-Social-links-profile)**
+- **[Live Demo](https://social-links-profile-xi-ecru.vercel.app/)**
+
 ### Screenshot
 
-![Challenge-3](images/screenshot.JPG)
+![Social Links Profile](images/screenshot.JPG)
 
-## Built with
+## Built With
 
 - Semantic HTML5
 - CSS
@@ -29,9 +34,9 @@ Users should be able to:
 - Accessible focus states
 - Google Fonts
 
-## What I learned
+## What I Learned
 
-This challenge helped me refresh and practice:
+This challenge helped me refresh and practise:
 
 - Choosing semantic HTML elements based on their purpose
 - Understanding the difference between `<a>` and `<button>`
@@ -57,10 +62,14 @@ The profile uses semantic HTML to describe the purpose of each element:
 - `<ul>` and `<li>` for the collection of social links
 - `<a>` for links to external social profiles
 
-A key learning from this challenge was understanding the difference between links and buttons:
+### Links vs Buttons
 
-- `<a>` is used when the user is navigating to another destination
-- `<button>` is used when the user is performing an action on the current page
+A key learning from this challenge was understanding the difference between links and buttons.
+
+- `<a>` is used when the user is navigating to another destination.
+- `<button>` is used when the user is performing an action on the current page.
+
+Since the social profile items navigate users to external destinations, `<a>` is the appropriate semantic element.
 
 ## Accessibility
 
@@ -68,7 +77,22 @@ The social links include a `:focus-visible` state so that keyboard users can cle
 
 The profile avatar also includes alternative text describing the person in the image.
 
-## Continued development
+Using semantic navigation elements and correctly choosing between links and buttons also provides a better foundation for keyboard navigation and assistive technologies.
+
+## CSS and Layout
+
+The profile card was built using Flexbox to manage the vertical layout and spacing between elements.
+
+I also practised:
+
+- `gap` for consistent spacing
+- `padding` for internal component spacing
+- `margin` for individual element spacing
+- `width` and `max-width` for responsive sizing
+- CSS pseudo-classes for interactive states
+- `display: block` to create full-width clickable links
+
+## Continued Development
 
 For future challenges, I want to continue improving:
 
@@ -77,9 +101,12 @@ For future challenges, I want to continue improving:
 - Responsive layouts
 - CSS Flexbox and Grid
 - Interactive states
+- CSS transitions and animations
 - Reusable and maintainable CSS
 - Design-to-code implementation
 
 ## Author
 
-Kanan Mehta
+**Kanan Mehta**
+
+- GitHub - [@Kananpretty](https://github.com/Kananpretty)

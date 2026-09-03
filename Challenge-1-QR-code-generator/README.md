@@ -4,7 +4,7 @@ This is my solution to the [QR Code Component challenge](https://www.frontendmen
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 The goal was to build a QR code component as closely as possible to the provided design.
 
@@ -14,11 +14,16 @@ Users should be able to:
 - See a clean and responsive QR code component
 - Read the provided heading and description clearly
 
+### Links
+
+- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-1-QR-code-generator)**
+- **[Live Demo](https://frontend-mentor-challenges-seven-self.vercel.app/)**
+
 ### Screenshot
 
-![Challenge-1](images/screenshot.JPG)
+![QR Code Component](images/screenshot.JPG)
 
-## Built with
+## Built With
 
 - Semantic HTML5
 - CSS
@@ -27,9 +32,9 @@ Users should be able to:
 - Google Fonts
 - CSS `box-sizing`
 
-## What I learned
+## What I Learned
 
-This challenge helped me refresh and practice:
+This challenge helped me refresh and practise:
 
 - Structuring a simple UI using semantic HTML
 - Using Flexbox to center content vertically and horizontally
@@ -38,6 +43,7 @@ This challenge helped me refresh and practice:
 - Using `min-height: 100vh` for viewport-based layouts
 - Using Google Fonts
 - Understanding the relationship between parent and child dimensions
+- Using `box-sizing: border-box` to make layout sizing more predictable
 
 ## Semantic HTML
 
@@ -51,17 +57,35 @@ The main content is structured using:
 - `<p>` for the description
 - `<img>` for the QR code
 
-## Continued development
+Using semantic elements makes the document structure clearer and provides a better foundation for accessibility.
+
+## Responsive Design
+
+The component was designed to adapt to different screen sizes while maintaining the proportions and spacing of the original design.
+
+I used:
+
+- Flexible sizing
+- `min-height: 100vh`
+- Flexbox for alignment
+- Responsive spacing
+- Appropriate typography sizing
+
+## Continued Development
 
 For future challenges, I want to continue improving:
 
 - Semantic HTML
+- Accessibility
 - Responsive layouts
 - Flexbox and CSS Grid
-- Accessibility
 - Interactive states
+- CSS transitions and animations
 - Writing cleaner and more maintainable CSS
+- Translating designs into accurate, responsive implementations
 
 ## Author
 
-Kanan Mehta
+**Kanan Mehta**
+
+- GitHub: [Kananpretty](https://github.com/Kananpretty)

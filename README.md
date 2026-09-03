@@ -10,14 +10,14 @@ My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and 
 
 ### Newbie
 
-| #   | Challenge                 | Concepts Practiced                                                                               | Status       |
-| --- | ------------------------- | ------------------------------------------------------------------------------------------------ | ------------ |
-| 1   | QR Code Component         | Semantic HTML, Flexbox, basic layout and styling                                                 | ✅ Completed |
-| 2   | Blog Preview Card         | Semantic HTML, typography, spacing, box shadow, avatar layout                                    | ✅ Completed |
-| 3   | Social Links Profile      | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing          | ✅ Completed |
-| 4   | Results Summary Component | CSS Grid, Flexbox, gradients, HSL and HSLA, JSON, Fetch API, DOM manipulation, responsive design | ✅ Completed |
-| 5   | Product Preview Card      | Responsive images, `<picture>`, CSS Grid, Flexbox, media queries, typography, semantic HTML      | ✅ Completed |
-| 6   | NFT Preview Card          | CSS positioning, image overlays, opacity, hover states, transitions, Flexbox                     | ✅ Completed |
+| #   | Challenge                 | Concepts Practiced                                                                               | GitHub Repo                                                                                                         | Live Demo                                                              | Status       |
+| --- | ------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------ |
+| 1   | QR Code Component         | Semantic HTML, Flexbox, basic layout and styling                                                 | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-1-QR-code-generator)         | [Live Demo](https://frontend-mentor-challenges-seven-self.vercel.app/) | ✅ Completed |
+| 2   | Blog Preview Card         | Semantic HTML, typography, spacing, box shadow, avatar layout                                    | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-2-Blog-preview-card)         | [Live Demo](https://blog-preview-card-bay-two.vercel.app/)             | ✅ Completed |
+| 3   | Social Links Profile      | Semantic HTML, Flexbox, links vs buttons, hover states, focus states, responsive sizing          | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-3-Social-links-profile)      | [Live Demo](https://social-links-profile-xi-ecru.vercel.app/)          | ✅ Completed |
+| 4   | Results Summary Component | CSS Grid, Flexbox, gradients, HSL and HSLA, JSON, Fetch API, DOM manipulation, responsive design | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-4-Results-summary-component) | [Live Demo](https://results-summary-section.vercel.app/)               | ✅ Completed |
+| 5   | Product Preview Card      | Responsive images, `<picture>`, CSS Grid, Flexbox, media queries, typography, semantic HTML      | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-5-Product-Preview-Card)      | [Live Demo](https://product-preview-card-three-drab.vercel.app/)       | ✅ Completed |
+| 6   | NFT Preview Card          | CSS positioning, image overlays, opacity, hover states, transitions, Flexbox                     | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-6-NFT-Preview-Card)          | [Live Demo](https://nft-preview-card-ten-eta.vercel.app/)              | ✅ Completed |
 
 ## Currently Working On
 
@@ -74,19 +74,24 @@ Intermediate
 Advanced
   ↓
 Guru
-
 ```
 
 ## Learning Progress
 
-Challenge 1 → Basic HTML and CSS layout
+**Challenge 1** → Basic HTML and CSS layout
 
-Challenge 2 → Semantic HTML, typography, spacing and card design
+**Challenge 2** → Semantic HTML, typography, spacing and card design
 
-Challenge 3 → Links vs buttons, interactive states and accessible navigation
+**Challenge 3** → Links vs buttons, interactive states and accessible navigation
 
-Challenge 4 → CSS Grid, gradients, responsive design, JSON, Fetch API and DOM manipulation
+**Challenge 4** → CSS Grid, gradients, responsive design, JSON, Fetch API and DOM manipulation
 
-Challenge 5 → Responsive images, the <picture> element and responsive layouts
+**Challenge 5** → Responsive images, the `<picture>` element and responsive layouts
 
-Challenge 6 → CSS positioning, element layering, image overlays, opacity and transitions
+**Challenge 6** → CSS positioning, element layering, image overlays, opacity and transitions
+
+## Author
+
+**Kanan Mehta**
+
+- GitHub: [Kananpretty](https://github.com/Kananpretty)
