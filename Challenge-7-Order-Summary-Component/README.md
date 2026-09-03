@@ -19,8 +19,8 @@ The component includes:
 
 ## Links
 
-- **[GitHub Repository] In Progress**
-- **[Live Demo]In Progress**
+- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-7-Order-Summary-Component)**
+- **[Live Demo](https://order-summary-component-umber-iota.vercel.app/)**
 
 ## Screenshot
 
@@ -124,5 +124,4 @@ For future projects, I want to continue improving:
 
 **Kanan Mehta**
 
-- Frontend Mentor: [@Kananpretty](https://www.frontendmentor.io/profile/Kananpretty)
 - GitHub: https://github.com/Kananpretty
