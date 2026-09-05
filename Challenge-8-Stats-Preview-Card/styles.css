@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  margin: 0;
+}
+
+body {
+  background-color: hsl(233, 47%, 7%);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+}
+
+.stats-preview-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stats-preview-card {
+  width: 70%;
+  height: 400px;
+  background-color: hsl(244, 37%, 16%);
+  display: flex;
+  border-radius: 10px;
+}
+
+.stats-details {
+  padding-left: 3rem;
+  padding-right: 4rem;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.stats-heading {
+  font-family: "Inter", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+}
+
+.stats-description {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  margin-top: 1.5rem;
+  font-size: 14px;
+  line-height: 1.5;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.stats-values {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding-inline-start: 0px;
+  margin: 4rem 0 0 0;
+  column-gap: 4rem;
+}
+
+.stats-values li {
+  list-style: none;
+}
+
+.company-value,
+.template-value,
+.query-value {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 0.5rem;
+}
+
+.company-label,
+.template-label,
+.query-label {
+  font-size: 12px;
+  font-weight: 400;
+  font-family: "Lexend Deca", sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.stats-illustration {
+  width: 50%;
+  height: 100%;
+  position: relative;
+  border-radius: 0 10px 10px 0;
+  overflow: hidden;
+}
+
+.stats-illustration img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.stats-illustration::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: hsla(277, 64%, 61%, 0.3);
+}
+
+.purple {
+  color: hsl(277, 64%, 61%);
+}
+
+@media screen and (max-width: 768px) {
+  .stats-preview-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: calc(100% - 2rem);
+  }
+  .stats-preview-card {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+
+  .stats-details {
+    width: 100%;
+    align-items: center;
+    padding: 2rem;
+  }
+
+  .stats-heading {
+    font-size: 30px;
+  }
+
+  .stats-values {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+    justify-content: center;
+    margin-top: 2.5rem;
+  }
+
+  .stats-illustration {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 10px 0 0;
+  }
+}
