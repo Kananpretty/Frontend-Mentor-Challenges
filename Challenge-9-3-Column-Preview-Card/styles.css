@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+}
+
+h2,
+p {
+  margin: 0;
+}
+
+body {
+  background-color: hsl(0, 0%, 95%);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+}
+
+.three-column-preview-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.three-column-preview-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 65%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.category-section {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3rem 2.5rem;
+}
+
+.sedan-section {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suvs-section {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury-section {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.category-icon {
+  width: 60px;
+  height: auto;
+  display: block;
+  margin-bottom: 2rem;
+}
+
+.category-header {
+  color: hsla(0, 0%, 95%, 0.9);
+  font-family: "Big Shoulders", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 2rem;
+}
+
+.category-description {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 4rem;
+}
+
+.learn-more-button {
+  text-decoration: none;
+  background-color: hsl(0, 0%, 95%);
+  width: fit-content;
+  padding: 0.8rem 2rem;
+  border-radius: 24px;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: auto;
+  border: 2px solid transparent;
+}
+
+.learn-more-button:hover {
+  border: 2px solid hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 95%);
+}
+
+.sedan-button {
+  color: hsl(31, 77%, 52%);
+}
+
+.sedan-button:hover {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suv-button {
+  color: hsl(184, 100%, 22%);
+}
+
+.suv-button:hover {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury-button {
+  color: hsl(179, 100%, 13%);
+}
+
+.luxury-button:hover {
+  background-color: hsl(179, 100%, 13%);
+}
+
+@media screen and (max-width: 1023px) {
+  .three-column-preview-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 90%;
+  }
+}
