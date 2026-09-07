@@ -188,12 +188,13 @@ body {
 
 .menu-list {
   padding-inline-start: 0;
+  margin: 0;
 }
 
 .menu-list-item {
   list-style: none;
   text-align: right;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.5rem;
 }
 
 .menu-link {
@@ -216,4 +217,67 @@ body {
   color: hsla(0, 0%, 100%, 0.9);
   font-size: 12px;
   font-weight: 400;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    height: auto;
+  }
+
+  .page-header,
+  .page-footer {
+    padding: 1rem;
+  }
+
+  .stats-summary {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .stats-header {
+    width: 100%;
+    padding: 1rem;
+    gap: 1.25rem;
+  }
+
+  .stats-title {
+    font-size: 38px;
+  }
+
+  .stats-details {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: none !important;
+  }
+
+  .stat-section {
+    padding: 1rem;
+    min-height: 30dvh;
+    border-top: var(--border);
+    border-right: none !important;
+    border-left: none !important;
+    border-bottom: none !important;
+  }
+
+  .page-menu {
+    width: 100%;
+    top: var(--header-height);
+    height: calc(var(--stats-header-height) + var(--header-height));
+  }
+
+  .menu-list-item {
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .overlay {
+    width: 100%;
+  }
 }

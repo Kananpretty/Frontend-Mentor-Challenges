@@ -1,5 +1,7 @@
 const header = document.querySelector(".page-header");
 
+const statsHeader = document.querySelector(".stats-header");
+
 const setHeaderHeight = () => {
   document.documentElement.style.setProperty(
     "--header-height",
@@ -7,9 +9,23 @@ const setHeaderHeight = () => {
   );
 };
 
-setHeaderHeight();
+const setStatsHeight = () => {
+  if (window.innerWidth <= 480) {
+    document.documentElement.style.setProperty(
+      "--stats-header-height",
+      `${statsHeader.offsetHeight}px`,
+    );
+  }
+};
 
-window.addEventListener("resize", setHeaderHeight);
+const handleResize = () => {
+  setHeaderHeight();
+  setStatsHeight();
+};
+
+handleResize();
+
+window.addEventListener("resize", handleResize);
 
 const menuButton = document.querySelector("#menu-button");
 const menuIcon = document.querySelector("#menu-icon");
