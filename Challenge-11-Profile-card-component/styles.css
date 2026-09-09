@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  margin: 0;
+}
+
+body {
+  background:
+    url("./images/bg-pattern-top.svg") -170px -200px / 50% auto no-repeat,
+    url("./images/bg-pattern-bottom.svg") calc(100% + 160px)
+      calc(100% + 300px) / 50% auto no-repeat,
+    hsl(185, 75%, 39%);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background:
+    url("./images/bg-pattern-card.svg") top center / 100% 40% no-repeat,
+    hsl(225, 10%, 92%);
+  width: 350px;
+  border-radius: 10px;
+}
+
+.profile-picture-section {
+  border-radius: 50%;
+  background-color: hsl(225, 10%, 92%);
+  width: fit-content;
+  padding: 0.5rem;
+  overflow: hidden;
+  margin-top: 20%;
+}
+
+.profile-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.profile-name {
+  color: hsl(229, 23%, 23%);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.profile-age {
+  color: hsl(227, 10%, 46%);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0.2rem;
+}
+
+.profile-location {
+  color: hsl(227, 10%, 46%);
+  font-size: 14px;
+  margin-bottom: 1rem;
+}
+
+.divider {
+  width: 100%;
+  border-top: 1px solid hsla(227, 10%, 46%, 0.3);
+}
+
+.profile-social-stats {
+  width: 100%;
+  padding: 1rem;
+}
+
+.social-stats-list {
+  padding-inline-start: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  width: 100%;
+}
+
+.social-stat-list-item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-value {
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  font-weight: 700;
+}
+
+.stat-label {
+  font-size: 10px;
+  color: hsl(227, 10%, 46%);
+  font-weight: 400;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background:
+      url("./images/bg-pattern-top.svg") -166px -178px / 100% 50% no-repeat,
+      url("./images/bg-pattern-bottom.svg") calc(100% + 175px)
+        calc(100% + 60px) / 100% 50% no-repeat,
+      hsl(185, 75%, 39%);
+  }
+}
