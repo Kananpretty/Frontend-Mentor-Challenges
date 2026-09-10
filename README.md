@@ -21,8 +21,9 @@ My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and 
 | 7   | Order Summary Component         | Responsive sizing, layered backgrounds, Flexbox, semantic HTML, hover states, focus states, HSL and HSLA                                              | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-7-Order-Summary-Component)      | [Live Demo](https://order-summary-component-umber-iota.vercel.app/)    | ✅ Completed |
 | 8   | Stats Preview Card Component    | Flexbox, CSS Grid, responsive design, responsive images, `<picture>`, media queries, pseudo-elements, positioning, HSL and HSLA                       | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-8-Stats-preview-card-component) | [Live Demo](https://stats-preview-card-eight-tau.vercel.app/)          | ✅ Completed |
 | 9   | 3 Column Preview Card Component | CSS Grid, Flexbox, responsive design, media queries, semantic HTML, reusable CSS patterns, HSL and HSLA, hover states                                 | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-9-3-Column-Preview-Card)        | [Live Demo](https://three-column-preview-card-bice.vercel.app/)        | ✅ Completed |
-| 10  | Grid Landing Page               | CSS Grid, Flexbox, responsive layouts, JavaScript DOM manipulation, navigation states, overlays, dynamic sizing, CSS custom properties, accessibility | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-10-Grid-Landing-Page)           | [Live Demo](https://grid-landing-page-seven.vercel.app/)               | ✅ Completed |
+| 10  | Grid Landing Page               | CSS Grid, Flexbox, responsive layouts, JavaScript DOM manipulation, navigation states, overlays, dynamic sizing, CSS custom properties, accessibility | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-10-Grid-Landing-page)           | [Live Demo](https://grid-landing-page-seven.vercel.app/)               | ✅ Completed |
 | 11  | Profile Card Component          | Flexbox, CSS Grid, responsive design, CSS background images, background positioning, normal document flow, HSL and HSLA                               | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-11-Profile-card-component)      | [Live Demo](https://profile-card-component-topaz-nine.vercel.app/)     | ✅ Completed |
+| 12  | Social Proof Section            | CSS Grid, Flexbox, responsive design, staggered layouts, `sibling-index()`, CSS background images, modern CSS features                                | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-12-Social-Proof-Section)        | [Live Demo](https://social-proof-section-ivory-eight.vercel.app/)      | ✅ Completed |
 
 ## Learning Goals
 
@@ -43,6 +44,7 @@ Through these challenges, I am focusing on making the following concepts feel na
 - CSS gradients
 - Multiple CSS backgrounds
 - HSL and HSLA colors
+- Modern CSS features
 - JavaScript fundamentals
 - Working with JSON
 - Fetch API
@@ -101,6 +103,8 @@ Guru
 **Challenge 10** → Page-level responsive layouts, CSS Grid and Flexbox, JavaScript interactions, responsive navigation, overlays, dynamic sizing and CSS custom properties
 
 **Challenge 11** → Flexbox and Grid, responsive design, multiple CSS background images, background positioning, normal document flow and layout relationships
+
+**Challenge 12** → CSS Grid and Flexbox, responsive compositions, staggered layouts, `sibling-index()`, modern CSS features and browser-support considerations
 
 ## Author
 
