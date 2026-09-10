@@ -24,6 +24,7 @@ My goal is to build confidence in HTML, CSS, responsive design, JavaScript, and 
 | 10  | Grid Landing Page               | CSS Grid, Flexbox, responsive layouts, JavaScript DOM manipulation, navigation states, overlays, dynamic sizing, CSS custom properties, accessibility | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-10-Grid-Landing-page)           | [Live Demo](https://grid-landing-page-seven.vercel.app/)               | ✅ Completed |
 | 11  | Profile Card Component          | Flexbox, CSS Grid, responsive design, CSS background images, background positioning, normal document flow, HSL and HSLA                               | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-11-Profile-card-component)      | [Live Demo](https://profile-card-component-topaz-nine.vercel.app/)     | ✅ Completed |
 | 12  | Social Proof Section            | CSS Grid, Flexbox, responsive design, staggered layouts, `sibling-index()`, CSS background images, modern CSS features                                | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-12-Social-Proof-Section)        | [Live Demo](https://social-proof-section-ivory-eight.vercel.app/)      | ✅ Completed |
+| 13  | Four Card Feature Section       | CSS Grid, Flexbox, responsive design, layout transformation, nested layouts, semantic HTML                                                            | [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-13-Four-Card-Feature)           | [Live Demo](https://four-card-feature-theta.vercel.app/)               | ✅ Completed |
 
 ## Learning Goals
 
@@ -106,8 +107,11 @@ Guru
 
 **Challenge 12** → CSS Grid and Flexbox, responsive compositions, staggered layouts, `sibling-index()`, modern CSS features and browser-support considerations
 
+**Challenge 13** → CSS Grid and Flexbox, responsive layout transformation, nested layouts and choosing layout systems based on element relationships
+
 ## Author
 
 **Kanan Mehta**
 
 - GitHub: [Kananpretty](https://github.com/Kananpretty)
+- Frontend Mentor: [@Kananpretty](https://www.frontendmentor.io/profile/Kananpretty)
