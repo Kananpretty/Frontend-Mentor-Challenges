@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+body {
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  color: hsl(234, 12%, 34%);
+}
+
+.four-card-main {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.four-card-header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  gap: 1rem;
+  padding: 0.5rem;
+}
+
+.four-card-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.4;
+}
+
+.four-card-heading span {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.card-heading-top {
+  font-weight: 200;
+  font-size: 32px;
+}
+
+.card-heading-bottom {
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.four-card-description {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.four-cards-details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  padding: 2rem;
+  gap: 1.5rem;
+}
+
+.card-details {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 2rem;
+  border: 1px solid hsl(0, 0%, 100%);
+  box-shadow: 1px 2px 5px hsl(212, 6%, 44%);
+}
+
+.red-top-border {
+  border-top: 5px solid hsl(0, 78%, 62%);
+}
+
+.cyan-top-border {
+  border-top: 5px solid hsl(180, 62%, 55%);
+}
+
+.orange-top-border {
+  border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+.blue-top-border {
+  border-top: 5px solid hsl(212, 86%, 64%);
+}
+
+.second-column {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.card-header {
+  font-size: 16px;
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.card-detail {
+  font-size: 14px;
+  font-weight: 400;
+  color: hsl(234, 12%, 34%);
+}
+
+.card-image {
+  width: 50px;
+  height: 50px;
+  align-self: flex-end;
+  margin-top: 1.5rem;
+}
+
+@media screen and (max-width: 480px) {
+  .four-card-main {
+    padding: 0;
+  }
+
+  .four-cards-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .four-card-header {
+    width: 100%;
+    padding: 1rem;
+  }
+}
