@@ -28,8 +28,8 @@ This implementation focuses on understanding the underlying JavaScript behaviour
 
 ## Links
 
-- Live Site - #
-- GitHub Repository - #
+- [Live Demo](https://faq-accordion-vanilla.vercel.app/)
+- [GIthub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/vanilla)
 
 ## Built With
 

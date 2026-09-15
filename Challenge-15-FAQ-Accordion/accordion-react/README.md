@@ -38,8 +38,8 @@ Building the same interface twice also provided an opportunity to compare impera
 
 ## Links
 
-- Live Site - #
-- GitHub Repository - #
+- [Live Demo](https://faq-accordion-react-tau.vercel.app/)
+- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/accordion-react)
 
 ## React Approach
 
