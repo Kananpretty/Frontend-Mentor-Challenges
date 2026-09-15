@@ -1,0 +1,88 @@
+.faq-accordion {
+  border-radius: 10px;
+  background-color: hsl(0, 100%, 100%);
+  width: 600px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.faq-accordion-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.faq-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.faq-heading {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.faq-accordion-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.accordion {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  padding: 1rem;
+  border-bottom: 1px solid hsla(292, 16%, 49%, 0.1);
+}
+
+.accordion:last-child {
+  border-bottom: 0;
+}
+
+.accordion-question {
+  width: 100%;
+  background: none;
+  border: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  cursor: pointer;
+}
+
+.accordion-question-text {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.accordion-state-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.accordion-answer {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsla(292, 16%, 49%, 0.6);
+  line-height: 1.5;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  margin: 0;
+
+  transition:
+    max-height 0.3s ease,
+    opacity 0.2s ease;
+}
+
+.active {
+  max-height: 200px;
+  opacity: 1;
+}
