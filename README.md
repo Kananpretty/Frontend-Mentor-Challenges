@@ -59,6 +59,8 @@ Through these challenges, I am focusing on making the following concepts feel na
 - State-driven UI
 - Rendering lists from data
 - Component design
+- CSS sizing functions (`min()`, `max()`, `clamp()`)
+- Relational selectors such as `:has()`
 
 ## Learning Approach
 
@@ -123,6 +125,8 @@ Guru
 **Challenge 14** → Semantic HTML, typography, spacing, lists, table styling, custom fonts, responsive layouts and CSS pseudo-elements
 
 **Challenge 15** → FAQ accordion, DOM manipulation, event handling, accessibility, CSS transitions, React `useState`, state-driven UI, rendering lists with `.map()`, and comparing imperative JavaScript with declarative React
+
+**Challenge 16** → Responsive CSS sizing with min() and clamp(), relational selectors with :has(), CSS pseudo-elements, vanilla JavaScript interaction, accessibility attributes, and deciding when React is unnecessary
 
 ## Author
 
