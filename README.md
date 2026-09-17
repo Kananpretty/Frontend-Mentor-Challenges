@@ -130,7 +130,7 @@ Guru
 
 **Challenge 16** → Responsive CSS sizing with min() and clamp(), relational selectors with :has(), CSS pseudo-elements, vanilla JavaScript interaction, accessibility attributes, and deciding when React is unnecessary
 
-Challenge 17 → HTML forms, form validation, responsive CSS Grid and Flexbox layouts, fluid sizing with clamp(), native browser validation APIs, checkValidity(), accessible validation states with aria-invalid and aria-describedby, responsive images with <picture>, and using :has() to style UI based on validation state
+**Challenge 17** → HTML forms, form validation, responsive CSS Grid and Flexbox layouts, fluid sizing with clamp(), native browser validation APIs, checkValidity(), accessible validation states with aria-invalid and aria-describedby, responsive images with <picture>, and using :has() to style UI based on validation state
 
 ## Author
 
