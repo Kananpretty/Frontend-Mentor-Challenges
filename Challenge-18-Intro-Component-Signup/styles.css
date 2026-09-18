@@ -108,6 +108,11 @@ body {
   padding: 0.8rem;
 }
 
+.input-wrapper:focus-within {
+  outline: 2px solid hsla(249, 10%, 26%, 0.4);
+  outline-offset: 2px;
+}
+
 .input-wrapper input {
   border: none;
   outline: none;
