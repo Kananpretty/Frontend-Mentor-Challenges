@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Links
 
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-18-Intro-Component-Signup)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-18-Intro-Component-Signup)
 - [Live Demo](https://sign-up-intro.vercel.app/)
 
 ## My Process
@@ -239,4 +239,4 @@ I would appreciate feedback on:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)

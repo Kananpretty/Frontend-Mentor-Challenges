@@ -12,7 +12,7 @@ One of the main learning goals of this challenge was understanding how to **laye
 
 ### Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-6-NFT-Preview-Card)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-6-NFT-Preview-Card)**
 - **[Live Demo](https://product-preview-card-three-drab.vercel.app/)**
 
 ## Screenshot
@@ -118,4 +118,4 @@ Going forward, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

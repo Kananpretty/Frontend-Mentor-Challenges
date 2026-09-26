@@ -23,7 +23,7 @@ The page features:
 ### Links
 
 - [Live Demo](https://four-card-feature-theta.vercel.app/)
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-13-Four-Card-Feature)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-13-Four-Card-Feature)
 
 ## My Process
 
@@ -136,5 +136,5 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub — [Kananpretty](https://github.com/Kananpretty)
-- Frontend Mentor — [Kananpretty](https://www.frontendmentor.io/profile/Kananpretty)
+- GitHub — [kanan-mehta](https://github.com/kanan-mehta)
+- Frontend Mentor — [kanan-mehta](https://www.frontendmentor.io/profile/kanan-mehta)

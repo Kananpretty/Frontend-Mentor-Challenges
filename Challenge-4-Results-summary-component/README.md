@@ -10,7 +10,7 @@ The category data is loaded dynamically from a local JSON file and rendered usin
 
 ### Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-4-Results-summary-component)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-4-Results-summary-component)**
 - **[Live Demo](https://results-summary-section.vercel.app/)**
 
 ### Screenshot
@@ -117,4 +117,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

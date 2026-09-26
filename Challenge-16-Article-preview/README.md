@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-16-Article-preview)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-16-Article-preview)
 - [Live Demo](https://article-preview-six-gamma.vercel.app/)
 
 ## My Process
@@ -212,4 +212,4 @@ I would appreciate feedback on:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)

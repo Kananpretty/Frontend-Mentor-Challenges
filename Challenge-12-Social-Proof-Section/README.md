@@ -22,7 +22,7 @@ The desktop design uses staggered positioning for the ratings and testimonial ca
 ### Links
 
 - [Live Demo](https://social-proof-section-ivory-eight.vercel.app/)
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-12-Social-Proof-Section)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-12-Social-Proof-Section)
 
 ### Screenshot
 
@@ -163,5 +163,5 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
-- Frontend Mentor — [@Kananpretty](https://www.frontendmentor.io/profile/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)
+- Frontend Mentor — [@kanan-mehta](https://www.frontendmentor.io/profile/kanan-mehta)

@@ -19,7 +19,7 @@ The component includes:
 
 ## Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-7-Order-Summary-Component)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-7-Order-Summary-Component)**
 - **[Live Demo](https://order-summary-component-umber-iota.vercel.app/)**
 
 ## Screenshot
@@ -124,4 +124,4 @@ For future projects, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub: https://github.com/Kananpretty
+- GitHub: https://github.com/kanan-mehta

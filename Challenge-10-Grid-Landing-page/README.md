@@ -19,7 +19,7 @@ The page includes:
 
 ## Links
 
-- [GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-10-Grid-Landing-page)
+- [GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-10-Grid-Landing-page)
 - [Live Demo](https://grid-landing-page-seven.vercel.app/)
 
 ## Screenshot
@@ -161,4 +161,4 @@ My next focus areas are:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

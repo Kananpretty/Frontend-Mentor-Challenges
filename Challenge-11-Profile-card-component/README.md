@@ -18,7 +18,7 @@ The component includes:
 
 ### Links
 
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-11-Profile-card-component)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-11-Profile-card-component)
 - [Live Demo](https://profile-card-component-topaz-nine.vercel.app/)
 
 ### Screenshot
@@ -141,4 +141,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

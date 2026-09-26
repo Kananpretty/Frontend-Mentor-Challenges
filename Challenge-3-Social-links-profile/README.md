@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-3-Social-links-profile)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-3-Social-links-profile)**
 - **[Live Demo](https://social-links-profile-xi-ecru.vercel.app/)**
 
 ### Screenshot
@@ -109,4 +109,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

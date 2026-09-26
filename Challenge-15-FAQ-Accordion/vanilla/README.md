@@ -29,7 +29,7 @@ This implementation focuses on understanding the underlying JavaScript behaviour
 ## Links
 
 - [Live Demo](https://faq-accordion-vanilla.vercel.app/)
-- [GIthub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/vanilla)
+- [GIthub](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/vanilla)
 
 ## Built With
 
@@ -152,4 +152,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)

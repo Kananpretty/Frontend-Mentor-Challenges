@@ -20,7 +20,7 @@ The page includes:
 
 ## Links
 
-- [GitHub](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-17-Coming-Soon-page)
+- [GitHub](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-17-Coming-Soon-page)
 - [Live Demo](https://base-apparel-coming-soon-gamma-liart.vercel.app/)
 
 ## Built With
@@ -232,4 +232,4 @@ I would appreciate feedback on:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)

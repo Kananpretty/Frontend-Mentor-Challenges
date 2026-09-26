@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-2-Blog-preview-card)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-2-Blog-preview-card)**
 - **[Live Demo](https://blog-preview-card-bay-two.vercel.app/)**
 
 ### Screenshot
@@ -95,4 +95,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

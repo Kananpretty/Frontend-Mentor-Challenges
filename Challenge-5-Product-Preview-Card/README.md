@@ -10,7 +10,7 @@ The layout changes between desktop and mobile, including the product image and c
 
 ### Links
 
-- **[GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-5-Product-Preview-Card)**
+- **[GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-5-Product-Preview-Card)**
 - **[Live Demo](https://product-preview-card-three-drab.vercel.app/)**
 
 ### Screenshot
@@ -120,4 +120,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

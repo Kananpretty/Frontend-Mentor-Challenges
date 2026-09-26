@@ -39,7 +39,7 @@ Building the same interface twice also provided an opportunity to compare impera
 ## Links
 
 - [Live Demo](https://faq-accordion-react-tau.vercel.app/)
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/accordion-react)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-15-FAQ-Accordion/accordion-react)
 
 ## React Approach
 
@@ -188,4 +188,4 @@ For future React challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub — [@Kananpretty](https://github.com/Kananpretty)
+- GitHub — [@kanan-mehta](https://github.com/kanan-mehta)

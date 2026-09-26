@@ -10,7 +10,7 @@ The layout uses CSS Grid on desktop and changes to a single-column layout on sma
 
 ## Links
 
-- [GitHub Repository](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-9-3-Column-Preview-Card)
+- [GitHub Repository](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-9-3-Column-Preview-Card)
 - [Live Demo](https://three-column-preview-card-bice.vercel.app/)
 
 ## Screenshot
@@ -156,4 +156,4 @@ For future challenges, I want to continue improving:
 
 **Kanan Mehta**
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)

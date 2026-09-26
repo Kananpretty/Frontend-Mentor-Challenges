@@ -17,7 +17,7 @@ Users should be able to:
 
 ## Links
 
-- [Github](https://github.com/Kananpretty/Frontend-Mentor-Challenges/tree/main/Challenge-19-Coming-Soon-Ping)
+- [Github](https://github.com/kanan-mehta/Frontend-Mentor-Challenges/tree/main/Challenge-19-Coming-Soon-Ping)
 - [Live Demo](https://ping-coming-soon-omega-sable.vercel.app/)
 
 ## My Process
@@ -265,4 +265,4 @@ I would appreciate feedback on:
 
 ## Author
 
-- GitHub - [@Kananpretty](https://github.com/Kananpretty)
+- GitHub - [@kanan-mehta](https://github.com/kanan-mehta)
